@@ -1,0 +1,17 @@
+/home/tyzros/chapt3/topic_practice_ws/src/status_display/install/status_display/lib/status_display/hello_qt
+/home/tyzros/chapt3/topic_practice_ws/src/status_display/install/status_display/lib/status_display/sys_status_display
+/home/tyzros/chapt3/topic_practice_ws/src/status_display/install/status_display/share/ament_index/resource_index/package_run_dependencies/status_display
+/home/tyzros/chapt3/topic_practice_ws/src/status_display/install/status_display/share/ament_index/resource_index/parent_prefix_path/status_display
+/home/tyzros/chapt3/topic_practice_ws/src/status_display/install/status_display/share/status_display/environment/ament_prefix_path.sh
+/home/tyzros/chapt3/topic_practice_ws/src/status_display/install/status_display/share/status_display/environment/ament_prefix_path.dsv
+/home/tyzros/chapt3/topic_practice_ws/src/status_display/install/status_display/share/status_display/environment/path.sh
+/home/tyzros/chapt3/topic_practice_ws/src/status_display/install/status_display/share/status_display/environment/path.dsv
+/home/tyzros/chapt3/topic_practice_ws/src/status_display/install/status_display/share/status_display/local_setup.bash
+/home/tyzros/chapt3/topic_practice_ws/src/status_display/install/status_display/share/status_display/local_setup.sh
+/home/tyzros/chapt3/topic_practice_ws/src/status_display/install/status_display/share/status_display/local_setup.zsh
+/home/tyzros/chapt3/topic_practice_ws/src/status_display/install/status_display/share/status_display/local_setup.dsv
+/home/tyzros/chapt3/topic_practice_ws/src/status_display/install/status_display/share/status_display/package.dsv
+/home/tyzros/chapt3/topic_practice_ws/src/status_display/install/status_display/share/ament_index/resource_index/packages/status_display
+/home/tyzros/chapt3/topic_practice_ws/src/status_display/install/status_display/share/status_display/cmake/status_displayConfig.cmake
+/home/tyzros/chapt3/topic_practice_ws/src/status_display/install/status_display/share/status_display/cmake/status_displayConfig-version.cmake
+/home/tyzros/chapt3/topic_practice_ws/src/status_display/install/status_display/share/status_display/package.xml

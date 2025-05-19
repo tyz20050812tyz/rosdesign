@@ -1,0 +1,7 @@
+[0.000000] (-) TimerEvent: {}
+[0.001059] (-) JobUnselected: {'identifier': 'status_interfaces'}
+[0.001163] (-) JobUnselected: {'identifier': 'status_publisher'}
+[0.001194] (status_display) JobQueued: {'identifier': 'status_display', 'dependencies': OrderedDict([('status_interfaces', '/home/tyzros/chapt3/topic_practice_ws/install/status_interfaces')])}
+[0.001225] (status_display) JobStarted: {'identifier': 'status_display'}
+[0.011202] (status_display) JobEnded: {'identifier': 'status_display', 'rc': 1}
+[0.021742] (-) EventReactorShutdown: {}

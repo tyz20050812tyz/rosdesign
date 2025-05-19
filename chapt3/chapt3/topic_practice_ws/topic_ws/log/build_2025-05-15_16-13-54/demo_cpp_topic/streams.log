@@ -1,0 +1,26 @@
+[0.016s] Invoking command in '/home/tyzros/chapt3/topic_ws/build/demo_cpp_topic': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tyzros/chapt3/topic_ws/install/demo_python_topic:/home/tyzros/chapt3/install/status_publisher:/home/tyzros/chapt3/install/demo_python_topic:/opt/ros/humble /usr/bin/cmake --build /home/tyzros/chapt3/topic_ws/build/demo_cpp_topic -- -j16 -l16
+[0.060s] [35m[1mConsolidate compiler generated dependencies of target turtle_control[0m
+[0.060s] [35m[1mConsolidate compiler generated dependencies of target turtle_circle[0m
+[0.077s] [ 50%] Built target turtle_circle
+[0.079s] [100%] Built target turtle_control
+[0.266s] Invoked command in '/home/tyzros/chapt3/topic_ws/build/demo_cpp_topic' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tyzros/chapt3/topic_ws/install/demo_python_topic:/home/tyzros/chapt3/install/status_publisher:/home/tyzros/chapt3/install/demo_python_topic:/opt/ros/humble /usr/bin/cmake --build /home/tyzros/chapt3/topic_ws/build/demo_cpp_topic -- -j16 -l16
+[0.275s] Invoking command in '/home/tyzros/chapt3/topic_ws/build/demo_cpp_topic': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tyzros/chapt3/topic_ws/install/demo_python_topic:/home/tyzros/chapt3/install/status_publisher:/home/tyzros/chapt3/install/demo_python_topic:/opt/ros/humble /usr/bin/cmake --install /home/tyzros/chapt3/topic_ws/build/demo_cpp_topic
+[0.281s] -- Install configuration: ""
+[0.282s] -- Up-to-date: /home/tyzros/chapt3/topic_ws/install/demo_cpp_topic/lib/demo_cpp_topic/turtle_control
+[0.282s] -- Up-to-date: /home/tyzros/chapt3/topic_ws/install/demo_cpp_topic/lib/demo_cpp_topic/turtle_circle
+[0.282s] -- Up-to-date: /home/tyzros/chapt3/topic_ws/install/demo_cpp_topic/share/ament_index/resource_index/package_run_dependencies/demo_cpp_topic
+[0.283s] -- Up-to-date: /home/tyzros/chapt3/topic_ws/install/demo_cpp_topic/share/ament_index/resource_index/parent_prefix_path/demo_cpp_topic
+[0.283s] -- Up-to-date: /home/tyzros/chapt3/topic_ws/install/demo_cpp_topic/share/demo_cpp_topic/environment/ament_prefix_path.sh
+[0.283s] -- Up-to-date: /home/tyzros/chapt3/topic_ws/install/demo_cpp_topic/share/demo_cpp_topic/environment/ament_prefix_path.dsv
+[0.283s] -- Up-to-date: /home/tyzros/chapt3/topic_ws/install/demo_cpp_topic/share/demo_cpp_topic/environment/path.sh
+[0.283s] -- Up-to-date: /home/tyzros/chapt3/topic_ws/install/demo_cpp_topic/share/demo_cpp_topic/environment/path.dsv
+[0.284s] -- Up-to-date: /home/tyzros/chapt3/topic_ws/install/demo_cpp_topic/share/demo_cpp_topic/local_setup.bash
+[0.284s] -- Up-to-date: /home/tyzros/chapt3/topic_ws/install/demo_cpp_topic/share/demo_cpp_topic/local_setup.sh
+[0.284s] -- Up-to-date: /home/tyzros/chapt3/topic_ws/install/demo_cpp_topic/share/demo_cpp_topic/local_setup.zsh
+[0.284s] -- Up-to-date: /home/tyzros/chapt3/topic_ws/install/demo_cpp_topic/share/demo_cpp_topic/local_setup.dsv
+[0.284s] -- Installing: /home/tyzros/chapt3/topic_ws/install/demo_cpp_topic/share/demo_cpp_topic/package.dsv
+[0.284s] -- Up-to-date: /home/tyzros/chapt3/topic_ws/install/demo_cpp_topic/share/ament_index/resource_index/packages/demo_cpp_topic
+[0.284s] -- Up-to-date: /home/tyzros/chapt3/topic_ws/install/demo_cpp_topic/share/demo_cpp_topic/cmake/demo_cpp_topicConfig.cmake
+[0.285s] -- Up-to-date: /home/tyzros/chapt3/topic_ws/install/demo_cpp_topic/share/demo_cpp_topic/cmake/demo_cpp_topicConfig-version.cmake
+[0.285s] -- Up-to-date: /home/tyzros/chapt3/topic_ws/install/demo_cpp_topic/share/demo_cpp_topic/package.xml
+[0.286s] Invoked command in '/home/tyzros/chapt3/topic_ws/build/demo_cpp_topic' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/tyzros/chapt3/topic_ws/install/demo_python_topic:/home/tyzros/chapt3/install/status_publisher:/home/tyzros/chapt3/install/demo_python_topic:/opt/ros/humble /usr/bin/cmake --install /home/tyzros/chapt3/topic_ws/build/demo_cpp_topic

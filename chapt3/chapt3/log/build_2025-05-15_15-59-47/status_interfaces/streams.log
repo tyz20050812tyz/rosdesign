@@ -1,0 +1,228 @@
+[0.024s] Invoking command in '/home/tyzros/chapt3/build/status_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/tyzros/chapt3/topic_practice_ws/src/status_interfaces -DCMAKE_INSTALL_PREFIX=/home/tyzros/chapt3/install/status_interfaces
+[0.161s] -- The C compiler identification is GNU 11.4.0
+[0.263s] -- The CXX compiler identification is GNU 11.4.0
+[0.278s] -- Detecting C compiler ABI info
+[0.351s] -- Detecting C compiler ABI info - done
+[0.355s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.356s] -- Detecting C compile features
+[0.357s] -- Detecting C compile features - done
+[0.362s] -- Detecting CXX compiler ABI info
+[0.446s] -- Detecting CXX compiler ABI info - done
+[0.451s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.451s] -- Detecting CXX compile features
+[0.452s] -- Detecting CXX compile features - done
+[0.454s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.578s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.679s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.683s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.691s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.750s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.784s] -- Found builtin_interfaces: 1.2.1 (/opt/ros/humble/share/builtin_interfaces/cmake)
+[0.993s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[1.146s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.333s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.354s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[1.355s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[1.379s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[1.379s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.379s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[1.379s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[1.395s] -- Found PythonExtra: .so  
+[1.422s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.444s] -- Added test 'lint_cmake' to check CMake code style
+[1.444s] -- Added test 'xmllint' to check XML markup files
+[1.446s] -- Configuring done
+[1.471s] -- Generating done
+[1.478s] -- Build files have been written to: /home/tyzros/chapt3/build/status_interfaces
+[1.483s] Invoked command in '/home/tyzros/chapt3/build/status_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/tyzros/chapt3/topic_practice_ws/src/status_interfaces -DCMAKE_INSTALL_PREFIX=/home/tyzros/chapt3/install/status_interfaces
+[1.485s] Invoking command in '/home/tyzros/chapt3/build/status_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/tyzros/chapt3/build/status_interfaces -- -j16 -l16
+[1.523s] [  3%] [34m[1mGenerating C code for ROS interfaces[0m
+[1.535s] [  6%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[1.544s] [  6%] Built target ament_cmake_python_copy_status_interfaces
+[1.748s] running egg_info
+[1.748s] creating status_interfaces.egg-info
+[1.748s] writing status_interfaces.egg-info/PKG-INFO
+[1.749s] writing dependency_links to status_interfaces.egg-info/dependency_links.txt
+[1.749s] writing top-level names to status_interfaces.egg-info/top_level.txt
+[1.749s] writing manifest file 'status_interfaces.egg-info/SOURCES.txt'
+[1.750s] reading manifest file 'status_interfaces.egg-info/SOURCES.txt'
+[1.750s] writing manifest file 'status_interfaces.egg-info/SOURCES.txt'
+[1.769s] [  6%] Built target status_interfaces__cpp
+[1.772s] [  6%] Built target ament_cmake_python_build_status_interfaces_egg
+[1.775s] [  9%] [32mBuilding C object CMakeFiles/status_interfaces__rosidl_generator_c.dir/rosidl_generator_c/status_interfaces/msg/detail/system_status__functions.c.o[0m
+[1.779s] [ 12%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[1.780s] [ 16%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[1.783s] [ 19%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[1.842s] [ 22%] [32m[1mLinking C shared library libstatus_interfaces__rosidl_generator_c.so[0m
+[1.884s] [ 22%] Built target status_interfaces__rosidl_generator_c
+[1.901s] [ 25%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[1.901s] [ 29%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[1.902s] [ 32%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[2.056s] [ 35%] [32mBuilding CXX object CMakeFiles/status_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/status_interfaces/msg/system_status__type_support.cpp.o[0m
+[2.070s] [ 38%] [32mBuilding CXX object CMakeFiles/status_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/status_interfaces/msg/detail/system_status__type_support.cpp.o[0m
+[2.097s] [ 41%] [32mBuilding CXX object CMakeFiles/status_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/status_interfaces/msg/detail/dds_fastrtps/system_status__type_support.cpp.o[0m
+[2.248s] [ 45%] [32mBuilding CXX object CMakeFiles/status_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/status_interfaces/msg/system_status__type_support.cpp.o[0m
+[2.282s] [ 48%] [32mBuilding C object CMakeFiles/status_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/status_interfaces/msg/detail/system_status__type_support.c.o[0m
+[2.295s] [ 51%] [32m[1mLinking CXX shared library libstatus_interfaces__rosidl_typesupport_c.so[0m
+[2.303s] [ 54%] [32mBuilding CXX object CMakeFiles/status_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/status_interfaces/msg/detail/system_status__type_support_c.cpp.o[0m
+[2.330s] [ 58%] [32m[1mLinking C shared library libstatus_interfaces__rosidl_typesupport_introspection_c.so[0m
+[2.359s] [ 58%] Built target status_interfaces__rosidl_typesupport_c
+[2.376s] [ 58%] Built target status_interfaces__rosidl_typesupport_introspection_c
+[2.575s] [ 61%] [32m[1mLinking CXX shared library libstatus_interfaces__rosidl_typesupport_cpp.so[0m
+[2.674s] [ 61%] Built target status_interfaces__rosidl_typesupport_cpp
+[2.790s] [ 64%] [32m[1mLinking CXX shared library libstatus_interfaces__rosidl_typesupport_introspection_cpp.so[0m
+[2.862s] [ 64%] Built target status_interfaces__rosidl_typesupport_introspection_cpp
+[2.870s] [ 67%] [32m[1mLinking CXX shared library libstatus_interfaces__rosidl_typesupport_fastrtps_cpp.so[0m
+[2.905s] [ 70%] [32m[1mLinking CXX shared library libstatus_interfaces__rosidl_typesupport_fastrtps_c.so[0m
+[2.970s] [ 70%] Built target status_interfaces__rosidl_typesupport_fastrtps_cpp
+[2.982s] [ 70%] Built target status_interfaces__rosidl_typesupport_fastrtps_c
+[3.001s] [ 70%] Built target status_interfaces
+[3.025s] [ 74%] [34m[1mGenerating Python code for ROS interfaces[0m
+[3.403s] [ 74%] Built target status_interfaces__py
+[3.424s] [ 77%] [32mBuilding C object CMakeFiles/status_interfaces__rosidl_generator_py.dir/rosidl_generator_py/status_interfaces/msg/_system_status_s.c.o[0m
+[3.596s] [ 80%] [32m[1mLinking C shared library rosidl_generator_py/status_interfaces/libstatus_interfaces__rosidl_generator_py.so[0m
+[3.637s] [ 80%] Built target status_interfaces__rosidl_generator_py
+[3.664s] [ 83%] [32mBuilding C object CMakeFiles/status_interfaces__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/status_interfaces/_status_interfaces_s.ep.rosidl_typesupport_c.c.o[0m
+[3.666s] [ 87%] [32mBuilding C object CMakeFiles/status_interfaces__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/status_interfaces/_status_interfaces_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[3.674s] [ 90%] [32mBuilding C object CMakeFiles/status_interfaces__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/status_interfaces/_status_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[3.779s] [ 93%] [32m[1mLinking C shared library rosidl_generator_py/status_interfaces/status_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[3.809s] [ 96%] [32m[1mLinking C shared library rosidl_generator_py/status_interfaces/status_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[3.814s] [100%] [32m[1mLinking C shared library rosidl_generator_py/status_interfaces/status_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[3.822s] [100%] Built target status_interfaces__rosidl_typesupport_introspection_c__pyext
+[3.849s] [100%] Built target status_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[3.852s] [100%] Built target status_interfaces__rosidl_typesupport_c__pyext
+[3.863s] Invoked command in '/home/tyzros/chapt3/build/status_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/tyzros/chapt3/build/status_interfaces -- -j16 -l16
+[3.874s] Invoking command in '/home/tyzros/chapt3/build/status_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/tyzros/chapt3/build/status_interfaces
+[3.883s] -- Install configuration: ""
+[3.884s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/ament_index/resource_index/rosidl_interfaces/status_interfaces
+[3.884s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces
+[3.884s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg
+[3.884s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/detail
+[3.884s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/detail/system_status__struct.h
+[3.884s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/detail/system_status__type_support.h
+[3.884s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/detail/system_status__functions.h
+[3.884s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/detail/system_status__functions.c
+[3.884s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/rosidl_generator_c__visibility_control.h
+[3.884s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/system_status.h
+[3.885s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/environment/library_path.sh
+[3.885s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/environment/library_path.dsv
+[3.885s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/lib/libstatus_interfaces__rosidl_generator_c.so
+[3.885s] -- Set runtime path of "/home/tyzros/chapt3/install/status_interfaces/lib/libstatus_interfaces__rosidl_generator_c.so" to ""
+[3.885s] -- Up-to-date: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces
+[3.885s] -- Up-to-date: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg
+[3.885s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[3.886s] -- Up-to-date: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/detail
+[3.886s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/detail/system_status__rosidl_typesupport_fastrtps_c.h
+[3.886s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/lib/libstatus_interfaces__rosidl_typesupport_fastrtps_c.so
+[3.886s] -- Set runtime path of "/home/tyzros/chapt3/install/status_interfaces/lib/libstatus_interfaces__rosidl_typesupport_fastrtps_c.so" to ""
+[3.886s] -- Up-to-date: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces
+[3.886s] -- Up-to-date: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg
+[3.886s] -- Up-to-date: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/detail
+[3.886s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/detail/system_status__rosidl_typesupport_introspection_c.h
+[3.888s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/detail/system_status__type_support.c
+[3.888s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[3.889s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/lib/libstatus_interfaces__rosidl_typesupport_introspection_c.so
+[3.889s] -- Set runtime path of "/home/tyzros/chapt3/install/status_interfaces/lib/libstatus_interfaces__rosidl_typesupport_introspection_c.so" to ""
+[3.889s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/lib/libstatus_interfaces__rosidl_typesupport_c.so
+[3.890s] -- Set runtime path of "/home/tyzros/chapt3/install/status_interfaces/lib/libstatus_interfaces__rosidl_typesupport_c.so" to ""
+[3.890s] -- Up-to-date: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces
+[3.890s] -- Up-to-date: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg
+[3.890s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+[3.890s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/system_status.hpp
+[3.890s] -- Up-to-date: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/detail
+[3.890s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/detail/system_status__type_support.hpp
+[3.890s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/detail/system_status__struct.hpp
+[3.890s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/detail/system_status__builder.hpp
+[3.890s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/detail/system_status__traits.hpp
+[3.890s] -- Up-to-date: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces
+[3.891s] -- Up-to-date: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg
+[3.891s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[3.891s] -- Up-to-date: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/detail
+[3.891s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/detail/system_status__rosidl_typesupport_fastrtps_cpp.hpp
+[3.891s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/detail/dds_fastrtps
+[3.891s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/lib/libstatus_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[3.891s] -- Set runtime path of "/home/tyzros/chapt3/install/status_interfaces/lib/libstatus_interfaces__rosidl_typesupport_fastrtps_cpp.so" to ""
+[3.891s] -- Up-to-date: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces
+[3.891s] -- Up-to-date: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg
+[3.891s] -- Up-to-date: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/detail
+[3.891s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/detail/system_status__type_support.cpp
+[3.891s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/include/status_interfaces/status_interfaces/msg/detail/system_status__rosidl_typesupport_introspection_cpp.hpp
+[3.891s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/lib/libstatus_interfaces__rosidl_typesupport_introspection_cpp.so
+[3.891s] -- Set runtime path of "/home/tyzros/chapt3/install/status_interfaces/lib/libstatus_interfaces__rosidl_typesupport_introspection_cpp.so" to ""
+[3.891s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/lib/libstatus_interfaces__rosidl_typesupport_cpp.so
+[3.891s] -- Set runtime path of "/home/tyzros/chapt3/install/status_interfaces/lib/libstatus_interfaces__rosidl_typesupport_cpp.so" to ""
+[3.891s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/environment/pythonpath.sh
+[3.891s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/environment/pythonpath.dsv
+[3.891s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces-0.0.0-py3.10.egg-info
+[3.891s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces-0.0.0-py3.10.egg-info/top_level.txt
+[3.891s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces-0.0.0-py3.10.egg-info/dependency_links.txt
+[3.892s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces-0.0.0-py3.10.egg-info/SOURCES.txt
+[3.892s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces-0.0.0-py3.10.egg-info/PKG-INFO
+[3.892s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces
+[3.892s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces/status_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[3.892s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces/status_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[3.892s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces/libstatus_interfaces__rosidl_generator_py.so
+[3.892s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces/__init__.py
+[3.892s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces/_status_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[3.892s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces/msg
+[3.892s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces/msg/__init__.py
+[3.892s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces/msg/_system_status.py
+[3.892s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces/msg/_system_status_s.c
+[3.892s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces/_status_interfaces_s.ep.rosidl_typesupport_c.c
+[3.892s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces/status_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[3.892s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces/_status_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[3.934s] Listing '/home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces'...
+[3.934s] Compiling '/home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces/__init__.py'...
+[3.934s] Listing '/home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces/msg'...
+[3.935s] Compiling '/home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces/msg/__init__.py'...
+[3.935s] Compiling '/home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces/msg/_system_status.py'...
+[3.938s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces/status_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[3.938s] -- Set runtime path of "/home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces/status_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[3.939s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces/status_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[3.939s] -- Set runtime path of "/home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces/status_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[3.939s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces/status_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[3.940s] -- Set runtime path of "/home/tyzros/chapt3/install/status_interfaces/local/lib/python3.10/dist-packages/status_interfaces/status_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[3.940s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/lib/libstatus_interfaces__rosidl_generator_py.so
+[3.941s] -- Set runtime path of "/home/tyzros/chapt3/install/status_interfaces/lib/libstatus_interfaces__rosidl_generator_py.so" to ""
+[3.941s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/msg/SystemStatus.idl
+[3.941s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/msg/SystemStatus.msg
+[3.941s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/ament_index/resource_index/package_run_dependencies/status_interfaces
+[3.941s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/ament_index/resource_index/parent_prefix_path/status_interfaces
+[3.941s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/environment/ament_prefix_path.sh
+[3.941s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/environment/ament_prefix_path.dsv
+[3.942s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/environment/path.sh
+[3.943s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/environment/path.dsv
+[3.943s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/local_setup.bash
+[3.943s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/local_setup.sh
+[3.943s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/local_setup.zsh
+[3.944s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/local_setup.dsv
+[3.944s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/package.dsv
+[3.944s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/ament_index/resource_index/packages/status_interfaces
+[3.944s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/export_status_interfaces__rosidl_generator_cExport.cmake
+[3.944s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/export_status_interfaces__rosidl_generator_cExport-noconfig.cmake
+[3.944s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/export_status_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[3.944s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/export_status_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[3.944s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/status_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[3.945s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/status_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[3.945s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/status_interfaces__rosidl_typesupport_cExport.cmake
+[3.945s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/status_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[3.945s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/export_status_interfaces__rosidl_generator_cppExport.cmake
+[3.945s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/export_status_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[3.945s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/export_status_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[3.945s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/status_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[3.946s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/status_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[3.946s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/status_interfaces__rosidl_typesupport_cppExport.cmake
+[3.946s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/status_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[3.946s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/export_status_interfaces__rosidl_generator_pyExport.cmake
+[3.946s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/export_status_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[3.946s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/rosidl_cmake-extras.cmake
+[3.947s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[3.947s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[3.947s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[3.947s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[3.947s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[3.947s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[3.947s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/status_interfacesConfig.cmake
+[3.948s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/cmake/status_interfacesConfig-version.cmake
+[3.948s] -- Installing: /home/tyzros/chapt3/install/status_interfaces/share/status_interfaces/package.xml
+[3.950s] Invoked command in '/home/tyzros/chapt3/build/status_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/tyzros/chapt3/build/status_interfaces

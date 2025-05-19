@@ -1,0 +1,26 @@
+[0.019s] Invoking command in '/home/tyzros/chapt3/build/status_display': CMAKE_PREFIX_PATH=/home/tyzros/chapt3/install/status_interfaces:/home/tyzros/chapt3/install/status_display:/home/tyzros/chapt3/install/demo_cpp_topic:/home/tyzros/chapt3/install/status_publisher:/home/tyzros/chapt3/install/demo_python_topic:/opt/ros/humble /usr/bin/cmake --build /home/tyzros/chapt3/build/status_display -- -j16 -l16
+[0.073s] [35m[1mConsolidate compiler generated dependencies of target hello_qt[0m
+[0.079s] [35m[1mConsolidate compiler generated dependencies of target sys_status_display[0m
+[0.090s] [ 50%] Built target hello_qt
+[0.100s] [100%] Built target sys_status_display
+[0.253s] Invoked command in '/home/tyzros/chapt3/build/status_display' returned '0': CMAKE_PREFIX_PATH=/home/tyzros/chapt3/install/status_interfaces:/home/tyzros/chapt3/install/status_display:/home/tyzros/chapt3/install/demo_cpp_topic:/home/tyzros/chapt3/install/status_publisher:/home/tyzros/chapt3/install/demo_python_topic:/opt/ros/humble /usr/bin/cmake --build /home/tyzros/chapt3/build/status_display -- -j16 -l16
+[0.255s] Invoking command in '/home/tyzros/chapt3/build/status_display': CMAKE_PREFIX_PATH=/home/tyzros/chapt3/install/status_interfaces:/home/tyzros/chapt3/install/status_display:/home/tyzros/chapt3/install/demo_cpp_topic:/home/tyzros/chapt3/install/status_publisher:/home/tyzros/chapt3/install/demo_python_topic:/opt/ros/humble /usr/bin/cmake --install /home/tyzros/chapt3/build/status_display
+[0.261s] -- Install configuration: ""
+[0.261s] -- Up-to-date: /home/tyzros/chapt3/install/status_display/lib/status_display/hello_qt
+[0.262s] -- Up-to-date: /home/tyzros/chapt3/install/status_display/lib/status_display/sys_status_display
+[0.262s] -- Up-to-date: /home/tyzros/chapt3/install/status_display/share/ament_index/resource_index/package_run_dependencies/status_display
+[0.262s] -- Up-to-date: /home/tyzros/chapt3/install/status_display/share/ament_index/resource_index/parent_prefix_path/status_display
+[0.263s] -- Up-to-date: /home/tyzros/chapt3/install/status_display/share/status_display/environment/ament_prefix_path.sh
+[0.263s] -- Up-to-date: /home/tyzros/chapt3/install/status_display/share/status_display/environment/ament_prefix_path.dsv
+[0.263s] -- Up-to-date: /home/tyzros/chapt3/install/status_display/share/status_display/environment/path.sh
+[0.263s] -- Up-to-date: /home/tyzros/chapt3/install/status_display/share/status_display/environment/path.dsv
+[0.263s] -- Up-to-date: /home/tyzros/chapt3/install/status_display/share/status_display/local_setup.bash
+[0.264s] -- Up-to-date: /home/tyzros/chapt3/install/status_display/share/status_display/local_setup.sh
+[0.264s] -- Up-to-date: /home/tyzros/chapt3/install/status_display/share/status_display/local_setup.zsh
+[0.264s] -- Up-to-date: /home/tyzros/chapt3/install/status_display/share/status_display/local_setup.dsv
+[0.264s] -- Installing: /home/tyzros/chapt3/install/status_display/share/status_display/package.dsv
+[0.265s] -- Up-to-date: /home/tyzros/chapt3/install/status_display/share/ament_index/resource_index/packages/status_display
+[0.265s] -- Up-to-date: /home/tyzros/chapt3/install/status_display/share/status_display/cmake/status_displayConfig.cmake
+[0.265s] -- Up-to-date: /home/tyzros/chapt3/install/status_display/share/status_display/cmake/status_displayConfig-version.cmake
+[0.265s] -- Up-to-date: /home/tyzros/chapt3/install/status_display/share/status_display/package.xml
+[0.266s] Invoked command in '/home/tyzros/chapt3/build/status_display' returned '0': CMAKE_PREFIX_PATH=/home/tyzros/chapt3/install/status_interfaces:/home/tyzros/chapt3/install/status_display:/home/tyzros/chapt3/install/demo_cpp_topic:/home/tyzros/chapt3/install/status_publisher:/home/tyzros/chapt3/install/demo_python_topic:/opt/ros/humble /usr/bin/cmake --install /home/tyzros/chapt3/build/status_display

@@ -1,0 +1,6 @@
+Invoking command in '/home/tyzros/chapt3/build/status_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/tyzros/chapt3/topic_practice_ws/src/status_interfaces -DCMAKE_INSTALL_PREFIX=/home/tyzros/chapt3/install/status_interfaces
+Invoked command in '/home/tyzros/chapt3/build/status_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/tyzros/chapt3/topic_practice_ws/src/status_interfaces -DCMAKE_INSTALL_PREFIX=/home/tyzros/chapt3/install/status_interfaces
+Invoking command in '/home/tyzros/chapt3/build/status_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/tyzros/chapt3/build/status_interfaces -- -j16 -l16
+Invoked command in '/home/tyzros/chapt3/build/status_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/tyzros/chapt3/build/status_interfaces -- -j16 -l16
+Invoking command in '/home/tyzros/chapt3/build/status_interfaces': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/tyzros/chapt3/build/status_interfaces
+Invoked command in '/home/tyzros/chapt3/build/status_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/tyzros/chapt3/build/status_interfaces
